@@ -1,4 +1,4 @@
-readme_content = """# 🚀 Master Website Analysis & Extraction Toolkit
+🚀 Master Website Analysis & Extraction Toolkit
 
 A blazing-fast, multi-threaded Python suite designed to run entirely within [Google Colab](https://colab.research.google.com/). It connects directly to your Google Sheets to perform high-speed email extraction and deep technical analysis on thousands of business websites concurrently. 
 
